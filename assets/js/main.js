@@ -46,11 +46,11 @@ document.addEventListener('DOMContentLoaded', () => {
       particlesJS('particles-js', {
         particles: {
           number: { value: 50, density: { enable: true, value_area: 800 } },
-          color: { value: "#0ea5e9" },
+          color: { value: "#d4af37" },
           shape: { type: "circle" },
           opacity: { value: 0.5, random: false },
           size: { value: 3, random: true },
-          line_linked: { enable: true, distance: 150, color: "#0ea5e9", opacity: 0.4, width: 1 },
+          line_linked: { enable: true, distance: 150, color: "#d4af37", opacity: 0.4, width: 1 },
           move: { enable: true, speed: 4 }
         },
         interactivity: {
